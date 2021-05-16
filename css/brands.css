@@ -83,6 +83,20 @@ button:hover,
 .button.button-discord:focus {
   filter: brightness(90%) }
 
+.button.button-tellonym {
+  color: #FFFFFF;
+  background-color: #2596be }
+.button.button-discord:hover,
+.button.button-discord:focus {
+  filter: brightness(90%) }
+
+.button.button-tiktok {
+  color: #FFFFFF;
+  background-color: #000000 }
+.button.button-discord:hover,
+.button.button-discord:focus {
+  filter: brightness(90%) }
+
 /* Facebook */
 .button.button-facebook {
   color: #FFFFFF;

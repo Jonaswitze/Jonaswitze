@@ -225,7 +225,7 @@ button:hover,
 /* Spotify */
 .button.button-spotify {
   color: #FFFFFF;
-  background-color: #000000 }
+  background-color: #1ed760 }
 .button.button-spotify:hover,
 .button.button-spotify:focus {
   filter: brightness(90%) }

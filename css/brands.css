@@ -83,13 +83,15 @@ button:hover,
 .button.button-discord:focus {
   filter: brightness(90%) }
 
+/* Tellonym */
 .button.button-tellonym {
   color: #FFFFFF;
-  background-color: #2596be }
+  background-color: #fc1375 }
 .button.button-discord:hover,
 .button.button-discord:focus {
   filter: brightness(90%) }
 
+/* TikTok */
 .button.button-tiktok {
   color: #FFFFFF;
   background-color: #000000 }
